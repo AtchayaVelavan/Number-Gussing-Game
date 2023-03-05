@@ -1,0 +1,6 @@
+C:\Users\COMPAQ\Desktop\Gitproject\Number Gussing Game\Number Gussing Game\bin\Debug\Number Gussing Game.exe.config
+C:\Users\COMPAQ\Desktop\Gitproject\Number Gussing Game\Number Gussing Game\bin\Debug\Number Gussing Game.exe
+C:\Users\COMPAQ\Desktop\Gitproject\Number Gussing Game\Number Gussing Game\bin\Debug\Number Gussing Game.pdb
+C:\Users\COMPAQ\Desktop\Gitproject\Number Gussing Game\Number Gussing Game\obj\Debug\Number Gussing Game.csprojResolveAssemblyReference.cache
+C:\Users\COMPAQ\Desktop\Gitproject\Number Gussing Game\Number Gussing Game\obj\Debug\Number Gussing Game.exe
+C:\Users\COMPAQ\Desktop\Gitproject\Number Gussing Game\Number Gussing Game\obj\Debug\Number Gussing Game.pdb
